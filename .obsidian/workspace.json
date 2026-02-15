@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -183,11 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "f0ecdd958f91a1ff",
+  "active": "ffd52afa836b25d4",
   "lastOpenFiles": [
-    "Без названия.md",
+    "logs/gdd-log.md",
+    "README.md",
+    "GDD.md",
+    "media/3d",
+    "media/Новая папка",
+    "media/video",
+    "media/audio",
+    "media",
+    "Новая папка",
+    "images/raw",
+    "images/Новая папка",
+    "images/selected",
+    "images",
     "index.md",
-    "index.md",
-    "Текстовый документ.txt"
+    "Без названия.md"
   ]
 }
