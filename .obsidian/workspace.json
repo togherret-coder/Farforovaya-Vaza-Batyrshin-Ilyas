@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "GDD"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9651d1a24c50f294",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "GDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для GDD"
             }
           },
           {
@@ -164,41 +164,62 @@
               "icon": "lucide-list",
               "title": "Структура Без названия"
             }
+          },
+          {
+            "id": "0f11cd6b9845a34c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ffd52afa836b25d4",
   "lastOpenFiles": [
     "logs/gdd-log.md",
-    "README.md",
     "GDD.md",
+    "logs/prompt-plan.md",
+    "logs/workflow-notes.md",
+    "outputs/selected/04-w04-character-teacher.png",
+    "outputs/selected/01-w04-location-lecture hall.png",
+    "outputs/selected/02-w04-location-lecture hall-dark.png",
+    "outputs/selected/03-w04-location-lecture hall-glitch.png",
+    "outputs/selected/02-w04-location-lecture hall-glitch.png",
+    "outputs/selected/ComfyUI_00012_.png",
+    "outputs/selected/ComfyUI_00013_.png",
+    "shots/shots-list.md",
+    "index.md",
+    "README.md",
+    "shots",
     "media/3d",
     "media/Новая папка",
     "media/video",
     "media/audio",
     "media",
     "Новая папка",
-    "images/raw",
+    "outputs/raw",
     "images/Новая папка",
-    "images/selected",
-    "images",
-    "index.md",
+    "outputs/selected",
     "Без названия.md"
   ]
 }
